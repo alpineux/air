@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 
 import Navbar from "../../components/Landing/Navbar";
 import Footer from "../../components/Landing/Footers/Main";
@@ -6,7 +6,8 @@ import Footer from "../../components/Landing/Footers/Main";
 export default function Profile() {
   return (
     <>
-      <Navbar transparent />
+      <h1>Hello</h1>
+      {/*<Navbar transparent />
       <main className="profile-page">
         <section className="relative block h-500-px">
           <div
@@ -138,7 +139,7 @@ export default function Profile() {
           </div>
         </section>
       </main>
-      <Footer />
+      <Footer />*/}
     </>
   );
-}*/
+}
