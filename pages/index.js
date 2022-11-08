@@ -151,8 +151,8 @@ export default function Home() {
                     <h4 className="text-xl font-bold text-white">
                       Request Example
                     </h4>
-                    <p className="text-md font-light mt-4 text-black bg-white p-4 rounded-md text-center">
-                      air.alpineux.com/api/airports/cyyc
+                    <p className="text-md font-light mt-4 text-[#162C39] bg-white p-4 rounded-md text-center">
+                      air.alpineux.com/api/airport/cyyc
                     </p>
                   </blockquote>
                 </div>
@@ -193,7 +193,7 @@ export default function Home() {
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
                 <div className="md:pr-12">
-                  <div className="text-lightBlue-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-lightBlue-300">
+                  <div className="text-lightBlue-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-[#162C39]">
                     <PaperAirplaneIcon className="h-8 w-8 text-white" />
                   </div>
                   <h3 className="text-3xl font-semibold">Airlines API</h3>
@@ -475,7 +475,7 @@ export default function Home() {
 
                       <div className="text-center mt-6">
                         <button
-                          className="bg-blueGray-800 text-white active:bg-blueGray-600 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 w-full ease-linear transition-all duration-150"
+                          className="bg-[#162C39] text-white active:bg-blueGray-600 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 w-full ease-linear transition-all duration-150"
                           type="button"
                         >
                           Sign In
