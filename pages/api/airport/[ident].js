@@ -3,7 +3,7 @@ import { single } from '../../../utils/db'
 
 export default async function handler(req, res) {
 
-	const { query } = req
+	const { query } = req;
 
 	if(!query.ident) {
 		res.status(400).json({ error: 'No airport ICAO or IATA provided', code: 'NAII452' })
@@ -27,5 +27,5 @@ export default async function handler(req, res) {
 		return;
 	}
 
-	res.status(200).json(fetch.data)
+	res.status(200).json(fetch.data);
 }
