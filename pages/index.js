@@ -130,7 +130,7 @@ export default function Home() {
               </div>
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
-                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500">
+                <div className="relative flex flex-col min-w-0 break-words bg-[#162C39] w-full mb-6 shadow-lg rounded-lg">
                   <img
                     alt="..."
                     src="https://images.unsplash.com/photo-1549897411-b06572cdf806?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
@@ -145,13 +145,13 @@ export default function Home() {
                     >
                       <polygon
                         points="-30,95 583,95 583,65"
-                        className="text-lightBlue-500 fill-current"
+                        className="text-[#162C39] fill-current"
                       ></polygon>
                     </svg>
                     <h4 className="text-xl font-bold text-white">
                       Request Example
                     </h4>
-                    <p className="text-md font-light mt-4 text-white bg-black p-4 rounded-md text-center">
+                    <p className="text-md font-light mt-4 text-black bg-white p-4 rounded-md text-center">
                       air.alpineux.com/api/airports/cyyc
                     </p>
                   </blockquote>
@@ -391,7 +391,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="relative block py-24 lg:pt-0 bg-blueGray-800">
+        <section className="relative block py-24 lg:pt-0 bg-[#162C39]">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center lg:-mt-64 -mt-48">
               <div className="w-full lg:w-6/12 px-4">

@@ -10,6 +10,7 @@ module.exports = {
   theme: {
     colors: {
       ...colors,
+      'brandDark': '#142129',
     },
     extend: {
       minHeight: {
