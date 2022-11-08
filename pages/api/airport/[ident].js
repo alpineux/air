@@ -1,4 +1,4 @@
-/*import { supabase } from '../../../utils/initSupabase'
+import { supabase } from '../../../utils/initSupabase'
 import { single } from '../../../utils/db'
 
 export default async function handler(req, res) {
@@ -28,4 +28,4 @@ export default async function handler(req, res) {
 	}
 
 	res.status(200).json(fetch.data)
-}*/
+}
