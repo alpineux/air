@@ -26,9 +26,9 @@ export default function Footer() {
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap text-center lg:text-left">
             <div className="w-full lg:w-6/12 px-4">
-              <h4 className="text-3xl font-semibold">Let's keep in touch!</h4>
+              <h4 className="text-3xl font-semibold">Let&apos;s keep in touch!</h4>
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-                Built by the team at <a href="https://alpineux.com" target="_blank">AlpineUX</a>
+                Built by the team at <a href="https://alpineux.com" target="_blank" rel="noreferrer">AlpineUX</a>
               </h5>
               {/*<div className="mt-6 lg:mb-0 mb-6">
                 <button

@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 
 import Navbar from "../../components/Landing/Navbar";
 import Footer from "../../components/Landing/Footers/Main";
@@ -141,4 +141,4 @@ export default function Profile() {
       <Footer />
     </>
   );
-}
+}*/

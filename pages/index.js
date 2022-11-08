@@ -256,7 +256,7 @@ export default function Home() {
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">API Roadmap</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  Here's our upcoming API release roadmap.
+                  Here&apos;s our upcoming API release roadmap.
                 </p>
               </div>
             </div>
